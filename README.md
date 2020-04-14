@@ -3,42 +3,42 @@
 
 ## 目录
 1. 数据结构
-    1.1 [链表 LinkedList.md](./1.%20数据结构/1.1%20链表%20LinkedList.md)
-    1.2 [栈 Stack.md](./1.%20数据结构/1.2%20栈%20Stack.md)
-    1.3 [队列 Queue.md](./1.%20数据结构/1.3%20队列%20Queue.md)
-    1.4 [字典 Dictionary.md](./1.%20数据结构/1.4%20字典%20Dictionary.md)
-2. 算法
-3. NodeJS
-    3.1 [NodeJS CheatSheet](./3.%20NodeJS/3.1%20NodeJS%20CheatSheet.md)
-4. RxJS
-    4.1 [基本概念](./4.%20RxJS/4.1%20基本概念.md)
-5. 框架
-    5.1 [Angular CheatSheet](./5.%20框架/5.1%20Angular%20CheatSheet.md)
-    5.2 [Vue CheatSheet](./5.%20框架/5.2%20Vue%20CheatSheet.md)
-    5.3 [Puppeteer CheatSheet](./5.%20框架/5.3%20Puppeteer%20CheatSheet.md)
-    5.4 [React CheatSheet](./5.%20框架/5.4%20React%20CheatSheet.md)
-6. Linux
-7. MySQL
-    7.1 [Sequelize](./7.%20MySQL/7.1%20Sequelize.md)
-    7.2 [MySQL 基础](./7.%20MySQL/7.2%20MySQL%20基础.md)
-    7.3 [Sequelize 一对多](./7.%20MySQL/7.3%20Sequelize%20一对多.md)
-8. Mongo
-9. 设计模式
-10. Git
-    10.1 [Git CheatSheet](./10.%20Git/10.1%20Git%20CheatSheet.md)
-    10.2 [Git 丢弃文件](./10.%20Git/10.2%20Git%20丢弃文件.md)
-    10.3 [Git 清除缓存的远程分支](./10.%20Git/10.3%20Git%20清除缓存的远程分支.md)
-    10.4 [遍历仓库里的 commit log 替换author](./10.%20Git/10.4%20遍历仓库里的%20commit%20log%20替换author.md)
-99. Other
-    99.1 [Nginx 配置](./99.%20Other/99.1%20Nginx%20配置.md)
-    99.2 [Mac 禁用动画](./99.%20Other/99.2%20Mac%20禁用动画.md)
-    99.3 [Siege](./99.%20Other/99.3%20Siege.md)
-    99.4 [Egg.js 修改端口号](./99.%20Other/99.4%20Egg.js%20修改端口号.md)
-    99.5 [POST 请求的四种常见Content-Type类型](./99.%20Other/99.5%20POST%20请求的四种常见Content-Type类型.md)
-    99.6 [Linux 通过端口终止进程](./99.%20Other/99.6%20Linux%20通过端口终止进程.md)
-    99.7 [Mac 免密登录服务器](./99.%20Other/99.7%20Mac%20免密登录服务器.md)
-    99.8 [几个 ls 相关的命令](./99.%20Other/99.8%20几个%20ls%20相关的命令.md)
-    99.9 [同时执行两条 npm 监听命令](./99.%20Other/99.9%20同时执行两条%20npm%20监听命令.md)
+    + [1.1 链表 LinkedList.md](./1.%20数据结构/1.1%20链表%20LinkedList.md)
+    + [1.2 栈 Stack.md](./1.%20数据结构/1.2%20栈%20Stack.md)
+    + [1.3 队列 Queue.md](./1.%20数据结构/1.3%20队列%20Queue.md)
+    + [1.4 字典 Dictionary.md](./1.%20数据结构/1.4%20字典%20Dictionary.md)
+1. 算法
+1. NodeJS
+    + [3.1 NodeJS CheatSheet](./3.%20NodeJS/3.1%20NodeJS%20CheatSheet.md)
+1. RxJS
+    + [4.1 基本概念](./4.%20RxJS/4.1%20基本概念.md)
+1. 框架
+    + [5.1 Angular CheatSheet](./5.%20框架/5.1%20Angular%20CheatSheet.md)
+    + [5.2 Vue CheatSheet](./5.%20框架/5.2%20Vue%20CheatSheet.md)
+    + [5.3 Puppeteer CheatSheet](./5.%20框架/5.3%20Puppeteer%20CheatSheet.md)
+    + [5.4 React CheatSheet](./5.%20框架/5.4%20React%20CheatSheet.md)
+1. Linux
+1. MySQL
+    + [7.1 Sequelize](./7.%20MySQL/7.1%20Sequelize.md)
+    + [7.2 MySQL 基础](./7.%20MySQL/7.2%20MySQL%20基础.md)
+    + [7.3 Sequelize 一对多](./7.%20MySQL/7.3%20Sequelize%20一对多.md)
+1. Mongo
+1. 设计模式
+1. Git
+    + [10.1 Git CheatSheet](./10.%20Git/10.1%20Git%20CheatSheet.md)
+    + [10.2 Git 丢弃文件](./10.%20Git/10.2%20Git%20丢弃文件.md)
+    + [10.3 Git 清除缓存的远程分支](./10.%20Git/10.3%20Git%20清除缓存的远程分支.md)
+    + [10.4 遍历仓库里的 commit log 替换author](./10.%20Git/10.4%20遍历仓库里的%20commit%20log%20替换author.md)
+1. Other
+    + [99.1 Nginx 配置](./99.%20Other/99.1%20Nginx%20配置.md)
+    + [99.2 Mac 禁用动画](./99.%20Other/99.2%20Mac%20禁用动画.md)
+    + [99.3 Siege](./99.%20Other/99.3%20Siege.md)
+    + [99.4 Egg.js 修改端口号](./99.%20Other/99.4%20Egg.js%20修改端口号.md)
+    + [99.5 POST 请求的四种常见Content-Type类型](./99.%20Other/99.5%20POST%20请求的四种常见Content-Type类型.md)
+    + [99.6 Linux 通过端口终止进程](./99.%20Other/99.6%20Linux%20通过端口终止进程.md)
+    + [99.7 Mac 免密登录服务器](./99.%20Other/99.7%20Mac%20免密登录服务器.md)
+    + [99.8 几个 ls 相关的命令](./99.%20Other/99.8%20几个%20ls%20相关的命令.md)
+    + [99.9 同时执行两条 npm 监听命令](./99.%20Other/99.9%20同时执行两条%20npm%20监听命令.md)
     
 
 ## License
