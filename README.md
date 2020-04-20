@@ -16,6 +16,8 @@
     + [3.3 NodeJS 处理高并发](./3.%20NodeJS/3.3%20NodeJS%20处理高并发.md)
     + [3.4 Buffer](./3.%20NodeJS/3.4%20Buffer.md)
     + [3.5 协议](./3.%20NodeJS/3.5%20协议.md)
+    + [3.6 CommonJS 规范](./3.%20NodeJS/3.6%20CommonJS.md)
+    + [3.7 异步编程](./3.%20NodeJS/3.7%20异步编程.md)
 1. RxJS
     + [4.1 基本概念](./4.%20RxJS/4.1%20基本概念.md)
 1. 框架
