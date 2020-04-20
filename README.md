@@ -3,11 +3,13 @@
 
 ## 目录
 1. 数据结构
-    + [1.1 链表 LinkedList.md](./1.%20数据结构/1.1%20链表%20LinkedList.md)
-    + [1.2 栈 Stack.md](./1.%20数据结构/1.2%20栈%20Stack.md)
-    + [1.3 队列 Queue.md](./1.%20数据结构/1.3%20队列%20Queue.md)
-    + [1.4 字典 Dictionary.md](./1.%20数据结构/1.4%20字典%20Dictionary.md)
+    + [1.1 链表 LinkedList](./1.%20数据结构/1.1%20链表%20LinkedList.md)
+    + [1.2 栈 Stack](./1.%20数据结构/1.2%20栈%20Stack.md)
+    + [1.3 队列 Queue](./1.%20数据结构/1.3%20队列%20Queue.md)
+    + [1.4 字典 Dictionary](./1.%20数据结构/1.4%20字典%20Dictionary.md)
 1. 算法
+    + [2.1 排序算法](./2.%20算法/2.1%20排序算法.md)
+    + [2.2 时间复杂度和空间复杂度](./2.%20算法/2.2%20时间复杂度和空间复杂度.md)
 1. NodeJS
     + [3.1 NodeJS CheatSheet](./3.%20NodeJS/3.1%20NodeJS%20CheatSheet.md)
     + [3.2 NodeJS 监控](./3.%20NodeJS/3.2%20NodeJS%20监控.md)
