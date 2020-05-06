@@ -28,6 +28,7 @@
     + [7.1 Sequelize](./docs/7.%20MySQL/7.1%20Sequelize.md)
     + [7.2 MySQL 基础](./docs/7.%20MySQL/7.2%20MySQL%20基础.md)
     + [7.3 Sequelize 一对多](./docs/7.%20MySQL/7.3%20Sequelize%20一对多.md)
+    + [7.4 MySQL CheatSheet](./docs/7.%20MySQL/7.4%20MySQL%20CheatSheet.md)
 1. Mongo
 1. 设计模式
 1. Git
